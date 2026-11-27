@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" width="360" height="180">
+  <rect width="360" height="180" rx="10" fill="#071320"/>
+  <circle cx="180" cy="90" r="64" fill="none" stroke="rgba(56,217,169,0.25)" stroke-width="1.5"/>
+  <circle cx="180" cy="90" r="44" fill="none" stroke="rgba(186,224,255,0.2)" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <path d="M180 42 L218 58 V92 C218 117 201 134 180 144 C159 134 142 117 142 92 V58 Z" fill="#0E2034" stroke="#E0A458" stroke-width="2.5"/>
+  <path d="M167 92 L176 101 L195 80" fill="none" stroke="#38D9A9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="20" y="28" fill="#8BA3BE" font-family="sans-serif" font-size="12">全链路零日志加密隧道</text>
+  <text x="258" y="160" fill="#38D9A9" font-family="monospace" font-size="13">零日志留存</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#153556"/>
+      <stop offset="100%" stop-color="#071320"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGlow)"/>
+  <g stroke="rgba(186,224,255,0.1)" fill="none">
+    <circle cx="880" cy="315" r="240" stroke-width="1.5"/>
+    <circle cx="880" cy="315" r="160" stroke-width="1.5" stroke-dasharray="6 6"/>
+    <circle cx="880" cy="315" r="80" stroke-width="1.5"/>
+    <line x1="600" y1="315" x2="1160" y2="315"/>
+    <line x1="880" y1="35" x2="880" y2="595"/>
+  </g>
+  <path d="M760 360 Q880 180 1020 265" fill="none" stroke="#E0A458" stroke-width="4" stroke-dasharray="10 6"/>
+  <circle cx="760" cy="360" r="8" fill="#38D9A9"/>
+  <circle cx="1020" cy="265" r="9" fill="#E0A458"/>
+  <rect x="80" y="130" width="200" height="38" rx="19" fill="rgba(56,217,169,0.14)" stroke="rgba(56,217,169,0.4)"/>
+  <text x="180" y="155" text-anchor="middle" fill="#38D9A9" font-family="sans-serif" font-size="18" font-weight="600">深海海缆骨干专线</text>
+  <text x="80" y="255" fill="#F0F7FF" font-family="sans-serif" font-size="76" font-weight="800">蓝海加速</text>
+  <text x="80" y="330" fill="#E0A458" font-family="sans-serif" font-size="34" font-weight="700">全球低延迟网络加速 · 极速秒开</text>
+  <text x="80" y="395" fill="#8BA3BE" font-family="sans-serif" font-size="24">原价 25 元 / 月 · 新人注册 8 折仅需 20 元</text>
+  <text x="80" y="490" fill="#38D9A9" font-family="monospace" font-size="22">https://lanhaijiasu.sbs</text>
+</svg>
